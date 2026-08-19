@@ -249,13 +249,13 @@ The goal is to make something that can **actually be used**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syedroshanriyan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=syedroshanriyan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedroshanriyan&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedroshanriyan&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170" alt="Top Languages" />
 
-<br/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=syedroshanriyan&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=syedroshanriyan&hide_border=true&theme=transparent" alt="GitHub Streak" />
 
 </div>
 
