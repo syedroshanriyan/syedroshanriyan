@@ -1,292 +1,206 @@
 <div align="center">
 
-# SYED ROSHAN RIYAN
+<img src="./assets/hero.svg" width="100%" alt="Syed Roshan Riyan — AI Engineer, Developer and Builder">
 
-### AI Engineer · Full-Stack Developer · App Builder
+<br>
 
-<p>
-  <a href="https://github.com/syedroshanriyan">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/syedroshanriyan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:syedroshanriyan.pc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/syedroshanriyan">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=180&section=header&text=Building%20Ideas%20Into%20Software&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
-
-</div>
-
----
-
-## `01` — Who I Am
-
-I'm a developer who builds **AI-powered applications, full-stack systems, mobile products, and cloud-deployed software**.
-
-My approach is simple:
-
-> **Understand the problem → design the system → build the product → deploy it → improve it.**
-
-I work across the stack, from **Python backends and databases** to **Flutter applications, AI agents, APIs, cloud infrastructure, and user interfaces**.
-
-I'm particularly interested in the intersection of **AI + software engineering + cloud infrastructure**.
-
----
-
-## `02` — What I Build
+<br><br>
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%"><b>AI</b><br><sub>Agents · GenAI</sub></td>
+<td align="center" width="25%"><b>PRODUCT</b><br><sub>Apps · Systems</sub></td>
+<td align="center" width="25%"><b>CLOUD</b><br><sub>GCP · Deployment</sub></td>
+<td align="center" width="25%"><b>ENGINEERING</b><br><sub>Python · Flutter</sub></td>
+</tr>
+</table>
 
-### AI Engineering
+</div>
 
-Building applications around modern AI capabilities.
+<br>
 
-* AI Agents
-* Generative AI
-* Gemini applications
-* AI-powered workflows
-* Prompt-driven systems
-* AI application deployment
+<img src="./assets/divider.svg" width="100%" alt="">
+
+01 — The Developer
+
+I build software at the intersection of AI, application engineering, and cloud infrastructure.
+
+My work moves across the entire product lifecycle: understanding a problem, designing the architecture, building the interface and backend, integrating AI, and deploying a usable system.
+
+IDEA  →  ARCHITECTURE  →  BUILD  →  DEPLOY  →  ITERATE
+
+I care less about writing more code and more about building the right system.
+
+02 — What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+◉ AI Systems
+
+Generative AI applications, AI agents, intelligent workflows, and practical LLM-powered products.
+
+Gemini · AI Agents · GenAI · Prompt Engineering
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Full-Stack Engineering
+◉ Full-Stack Products
 
-Turning application ideas into working systems.
+End-to-end applications with Python backends, APIs, databases, authentication, and polished interfaces.
 
-* Python backends
-* REST APIs
-* Database systems
-* Authentication
-* Web applications
-* Cloud deployment
+Python · Flask · FastAPI · REST
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Mobile Development
+◉ Mobile Applications
 
-Building structured Flutter applications.
+Structured Flutter applications designed around maintainability, scalable state management, and product-quality UX.
 
-* Flutter
-* Material 3
-* Riverpod
-* GoRouter
-* Clean Architecture
-* MVVM
+Flutter · Riverpod · GoRouter · MVVM
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Cloud & Automation
+◉ Cloud & Automation
 
-Connecting applications and infrastructure.
+Deployable systems that connect applications, APIs, AI services, and cloud infrastructure.
 
-* Google Cloud
-* Cloud Run
-* Firebase
-* API integrations
-* Automation
-* AI workflows
+Google Cloud · Cloud Run · Firebase · Automation
 
 </td>
 </tr>
 </table>
 
----
+03 — Selected Work
 
-## `03` — Tech Stack
+PARIVAR
+
+Family Safety Ecosystem
+
+A Flutter-based safety platform centered around trusted contacts, SOS workflows, emergency communication, live location sharing, messaging, and privacy-conscious architecture.
+
+Flutter Riverpod GoRouter Clean Architecture MVVM
+
+Gemini AI Creative Studio
+
+Generative AI Application
+
+An AI application built around Gemini capabilities with experiences for freeform interaction, story generation, marketing campaigns, image workflows, and video experimentation.
+
+Python Gemini Streamlit Google Cloud
+
+HCCS
+
+Hybrid Cryptography & Steganography
+
+A security-oriented project exploring encrypted information embedding through cryptography and image steganography.
+
+Python Flask PIL Cryptography
+
+Vehicle Detection & Tracking
+
+Computer Vision
+
+A computer-vision system for detecting and tracking vehicles from visual input, focused on practical multi-object tracking.
+
+Python YOLO Computer Vision
+
+04 — Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,dart,java,javascript,html,css,sql" />
-
-### Frameworks & Platforms
-
-<img src="https://skillicons.dev/icons?i=flutter,flask,fastapi,nodejs,tailwind" />
-
-### Cloud, Data & Tools
-
-<img src="https://skillicons.dev/icons?i=gcp,firebase,mongodb,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,dart,java,js,html,css,sql,flutter,flask,fastapi,gcp,firebase,mongodb,docker,git,github,vscode&perline=9" alt="Technology stack">
 
 </div>
 
----
-
-## `04` — Selected Work
-
-### PARIVAR
-
-**Family Safety Ecosystem**
-
-A Flutter-based safety platform designed around trusted contacts, SOS workflows, emergency communication, live location sharing, messaging, and privacy-focused architecture.
-
-**Architecture**
-
-`Flutter` · `Riverpod` · `GoRouter` · `Clean Architecture` · `MVVM`
-
----
-
-### Gemini AI Creative Studio
-
-**Generative AI Application**
-
-An AI application built around Google Gemini capabilities with experiences for:
-
-`Freeform` · `Story Generation` · `Marketing Campaigns` · `Image Playground` · `Video Playground`
-
-Deployed using a Streamlit interface on Google Cloud.
-
-**Stack**
-
-`Python` · `Gemini` · `Streamlit` · `Google Cloud`
-
----
-
-### HCCS
-
-**Hybrid Cryptography & Steganography**
-
-A security-oriented application exploring encrypted information embedding through cryptography and image steganography.
-
-**Stack**
-
-`Python` · `Flask` · `PIL` · `Cryptography`
-
----
-
-### Vehicle Detection & Tracking
-
-**Computer Vision**
-
-An object-detection and tracking system designed for identifying and tracking vehicles from visual input.
-
-**Stack**
-
-`Python` · `YOLO` · `Computer Vision`
-
----
-
-### Durood Counter
-
-**Web Application**
-
-A lightweight counting application with persistent data storage and a Python backend.
-
-**Stack**
-
-`Flask` · `Python` · `MongoDB Atlas`
-
----
-
-## `05` — Engineering Focus
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│       AI              SOFTWARE             CLOUD         │
-│        │                  │                  │            │
-│        ▼                  ▼                  ▼            │
-│     Agents ───────► Applications ───────► Deployment    │
-│        │                  │                  │            │
-│        └──────────────► Automation ◄────────┘            │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-### Currently exploring
-
-* AI Agent Engineering
-* Gemini & Generative AI
-* Google Cloud
-* Full-Stack Python
-* Flutter Architecture
-* MCP-based application workflows
-* Production-oriented AI deployment
-
----
-
-## `06` — How I Think About Engineering
-
-I don't optimize for writing the most code.
-
-I optimize for building the **right system**.
-
-```text
-Problem
-   ↓
-Requirements
-   ↓
-Architecture
-   ↓
-Implementation
-   ↓
-Testing
-   ↓
-Deployment
-   ↓
-Iteration
-```
-
-The goal is not simply to make something work locally.
-
-The goal is to make something that can **actually be used**.
-
----
-
-## `07` — GitHub
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syedroshanriyan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" height="170" alt="GitHub Stats" />
+Python · Dart · Flutter · Flask · FastAPI · JavaScript · SQL · MongoDB · Firebase · Google Cloud · Docker · Git
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedroshanriyan&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170" alt="Top Languages" />
+</div>
+
+05 — Engineering Principles
+
+<table>
+<tr>
+<td><b>01</b><br><sub>Start with the problem</sub></td>
+<td><b>02</b><br><sub>Keep architecture intentional</sub></td>
+<td><b>03</b><br><sub>Build the core workflow first</sub></td>
+<td><b>04</b><br><sub>Deploy early</sub></td>
+<td><b>05</b><br><sub>Iterate from evidence</sub></td>
+</tr>
+</table>
+
+<br>
+
+A prototype proves an idea. A deployed product proves the engineering.
+
+06 — Current Focus
+
+<div align="center">
+
+AI × SOFTWARE × CLOUD
+
+<br>
+
+AI Agent Engineering   Gemini   Google Cloud
+Full-Stack Python   Flutter Architecture   MCP Workflows
+
+</div>
+
+07 — Beyond the Frameworks
+
+I build across different problem domains rather than staying inside one framework:
+
+Safety and emergency systems
+
+AI-powered creative tools
+
+Computer vision
+
+Security and steganography
+
+Management systems
+
+Automation workflows
+
+Data-driven applications
+
+Mobile and web products
+
+The common thread is simple:
+
+turn a real requirement into a working system.
+
+08 — Connect
+
+<div align="center">
+
+<a href="https://github.com/syedroshanriyan">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=syedroshanriyan&hide_border=true&theme=transparent" alt="GitHub Streak" />
+Building digital products from idea → deployment.
 
 </div>
 
----
+<br>
 
-## `08` — Let's Build
-
-I'm interested in projects involving:
-
-**AI · Software Products · Automation · Cloud · Mobile · Full-Stack Systems**
-
-If you're building something technically ambitious, I'm open to discussing the engineering side.
+<img src="./assets/footer.svg" width="100%" alt="">
 
 <div align="center">
-
-### `BUILD → DEPLOY → ITERATE`
-
-<br/>
-
-<a href="https://github.com/syedroshanriyan">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=120&section=footer" width="100%" />
-
-<sub>Designed to build. Engineered to ship.</sub>
-
+<sub>Designed with restraint. Engineered with intent.</sub>
 </div>
